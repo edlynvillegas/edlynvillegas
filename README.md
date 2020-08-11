@@ -3,7 +3,7 @@
 I'm a junior web developer based in the Philippines.
 I like exploring things and expanding my skills from creating projects.
 
-##### Interested in working together? I'm open to more opportunities!
+##### Interested in working together? I'm open for more opportunities!
 
 :mailbox: Email me at [edlynsanantonio@gmail.com](mailto:edlynsanantonio@gmail.com)
 
