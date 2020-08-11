@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, I'm Edlyn Villegas.
+
+I'm a junior web developer based in the Philippines.
+I like exploring and expanding my skills from creating projects.
+
+
+
+:mailbox: Interested in working together? I'm open to more opportunities!
+Email me at [edlynsanantonio@gmail.com](mailto:edlynsanantonio@gmail.com)
+
+:coffee: Or let's talk over a [cup of coffee!](https://www.buymeacoffee.com/edlynvillegas)
 
 <!--
 **edlynvillegas/edlynvillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
