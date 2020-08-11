@@ -1,7 +1,7 @@
 ## Hi, I'm Edlyn Villegas.
 
 I'm a junior web developer based in the Philippines.
-I like exploring this and expanding my skills from creating projects.
+I like exploring things and expanding my skills from creating projects.
 
 ##### Interested in working together? I'm open to more opportunities!
 
