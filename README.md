@@ -1,11 +1,13 @@
-## Hi, I'm Edlyn Villegas.
+# Hi, I'm Edlyn Villegas.
 
-I'm a junior web developer based in the Philippines.
-I like exploring things and expanding my skills from creating projects.
+Fullstack developer based in the Philippines. I ship SaaS products with React/TypeScript and Python, and I'm currently building AI-integrated tooling and agent workflows.
 
-##### Interested in working together? I'm open for more opportunities!
+**Open to new opportunities and collaborations!**
 
-:mailbox: Email me at [edlynsanantonio@gmail.com](mailto:edlynsanantonio@gmail.com)
+📫 edlynsanantonio@gmail.com
+☕ Or let's talk over a cup of coffee!
+
+:mailbox: Email me at [edlynsavillegas@gmail.com](mailto:edlynsavillegas@gmail.com)
 
 :coffee: Or let's talk over a [cup of coffee!](https://www.buymeacoffee.com/edlynvillegas)
 
