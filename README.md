@@ -4,9 +4,6 @@ Fullstack developer based in the Philippines. I ship SaaS products with React/Ty
 
 **Open to new opportunities and collaborations!**
 
-📫 edlynsanantonio@gmail.com
-☕ Or let's talk over a cup of coffee!
-
 :mailbox: Email me at [edlynsavillegas@gmail.com](mailto:edlynsavillegas@gmail.com)
 
 :coffee: Or let's talk over a [cup of coffee!](https://www.buymeacoffee.com/edlynvillegas)
